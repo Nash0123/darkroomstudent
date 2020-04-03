@@ -1,6 +1,5 @@
-echo "# darkroomstudent" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/Nash0123/darkroomstudent.git
-git push -u origin master
+# darkroomstudent
+
+Hi, I welcome all of you to my new branch.
+
+Stay with me and learn more...
