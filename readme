@@ -1,0 +1,6 @@
+echo "# darkroomstudent" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Nash0123/darkroomstudent.git
+git push -u origin master
